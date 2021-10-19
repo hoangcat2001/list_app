@@ -1,0 +1,26 @@
+[
+    {
+     "id": 1,
+     "task": "Read Book",
+     "complete": true,
+     "deadline": "1/10/2021"
+    },
+    {
+    "id": 2,
+    "task": "Learn English",
+    "complete": true,
+    "deadline": "8/10/2021"
+    },
+    {
+    "id": 3,
+    "task": "Take The Exam",
+    "complete": false,
+    "deadline": "13/10/2021"
+    },
+    {
+    "id": 4,
+    "task": "Exercise",
+    "complete": false,
+    "deadline": "10/10/2021"
+    }
+    ]
